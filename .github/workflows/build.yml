@@ -10,6 +10,7 @@ on:
         options:
           - h3c-nx30pro
           - cmcc-rax3000m
+          - ruijie-x30e-pro
 
       upload_artifact:
         description: Upload firmware artifact
